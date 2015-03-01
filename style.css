@@ -1,0 +1,17 @@
+body{
+	margin:0;
+	padding:0;
+}
+h1{
+	font-family: Circular, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 60px;
+	color:#FFF;
+	position: absolute;
+	top:40%;
+	text-align: center;
+	width: 100%;
+}
+.photos{
+	width:100%;
+
+}
