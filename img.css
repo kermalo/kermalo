@@ -1,3 +1,16 @@
+.carousel-inner .item{
+	background-size: cover;
+}
+
+
 .img01{
-	top:-100px !important;
+	background: transparent url('images/DSC_2748.jpg') center no-repeat;
+}
+
+.img02{
+	background: transparent url('images/DSC_2756.jpg') center no-repeat;
+}
+
+.img03{
+	background: transparent url('images/DolDeBretagne.png') center no-repeat;
 }
